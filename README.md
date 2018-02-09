@@ -8,12 +8,14 @@ SRS ID: CST116SRS04
 
 Unresolved Issues:  
 
-Unable to successfully allow user to pick which triangle to complete.
-Unable to complete SSA in time requirement
-Unable to complete SSS in time requirement
+Option 1 AAA Triangle, Unable to recieve positive triangle lengths. Runs without errors
+Option 2 AAS Triangle, Unable to recieve positive triangle lengths. Runs without errors
+Option 3 ASA Triangle, Unable to recieve positive triangle lengths on some inputs, others work fine though.
+Option 5 SSA triangle, Unable to return a number value. But will run without errors
+
 
 Notes: 
-
+This project could not be completed without an SRS extention which was filed at 2004 PST on 8 Feb 2018 via email.
 
 
 
