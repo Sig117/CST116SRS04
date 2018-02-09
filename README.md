@@ -8,8 +8,12 @@ SRS ID: CST116SRS04
 
 Unresolved Issues:  
 
+Unable to successfully allow user to pick which triangle to complete.
+Unable to complete SSA in time requirement
+Unable to complete SSS in time requirement
+
 Notes: 
-cpp renamed to Triangle <check>
+
 
 
 
