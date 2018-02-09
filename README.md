@@ -8,10 +8,7 @@ SRS ID: CST116SRS04
 
 Unresolved Issues:  
 
-Option 1 AAA Triangle, Unable to recieve positive triangle lengths. Runs without errors
-Option 2 AAS Triangle, Unable to recieve positive triangle lengths. Runs without errors
-Option 3 ASA Triangle, Unable to recieve positive triangle lengths on some inputs, others work fine though.
-Option 5 SSA triangle, Unable to return a number value. But will run without errors
+all issues appear to be fixed as of 1106PST 20180209
 
 
 Notes: 
